@@ -32,8 +32,13 @@ git clone https://github.com/MahmoudAbdullh/e2e-mern-app.git
 2. using your terminal to Run: 
 
 ```sh
-cd e2e-mern-app
+cd e2e-app
 docker-compose up -d
+```
+
+3. now open below url in your browser:
+```sh
+http://localhost:8080
 ```
 
 # Enjoy ✌
