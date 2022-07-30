@@ -21,6 +21,12 @@ a database to store the data.
 - [Docker] - a software platform that simplifies the process of building, running, managing and distributing applications.
 - [Docker-compose] - config multiple container using docker-compose.yml file
 
+
+## pre-requests
+
+* [download Docker](https://www.docker.com/get-started/)
+
+
 ## Installation
 
 1. clone repo 
